@@ -1,9 +1,9 @@
 # EMILY C THOMPSON
-I am a **graphic designer**, art director, and aspiring developer living and working in Bellingham, WA.
+##GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER
 
-##EXPERIENCE
+####EXPERIENCE
 
 
-##SKILLS
+######SKILLS
 
 ##EDUCATION
