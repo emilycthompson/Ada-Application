@@ -42,20 +42,19 @@ _School of Visual Concepts—Seattle, WA_
 ----------------
 **[Cascade Designs 2017 Workbook] (http://emilythompsondesign.com/cascade-designs-2017-workbook)**
 ![Cascade Designs 2017 Workbook](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a818cc37453195.5754cf94cbc04.jpg)  
-Art direction, design and project mangaement for Cascade Designs workbook showcasing new and existing products for Mountain Safety Research, Therm-A-Rest, Platypus and SealLine products.
+######Art direction, design and project mangaement for Cascade Designs workbook showcasing new and existing products for Mountain Safety Research, Therm-A-Rest, Platypus and SealLine products.
 
 **[Brenthaven Photoshoot Art Direction](http://emilythompsondesign.com/brenthaven-photography-art-direction)**
 ![Brenthaven Photoshoot Art Direction](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c11f1f21138641.562fc2101cc87.jpg)  
-Concept development, wardrobe selection, casting and location scouting for multiple Brenthaven lifestyle and propped product photo shoots.
-[Hammerquist Studios](http://emilythompsondesign.com/canadian-mountain-holidays-web-forms) | Canadian Mountain Holidays Web Forms | Visual and functional design update of sales lead conversion pages and forms including contact and booking pages. Also included a pop-up modal on the homepage to encourage newsletter sign-ups.
+######Concept development, wardrobe selection, casting and location scouting for multiple Brenthaven lifestyle and propped product photo shoots.
 
 **[Canadian Mountan Holidays Web Forms] (http://emilythompsondesign.com/canadian-mountain-holidays-web-forms)**
 ![Canadian Mountain Holidays Web Forms](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e265b221138111.562fc1ebf2905.jpg)  
-Visual and functional design update of sales lead conversion pages and forms including contact, booking pages, and a pop-up modal on the homepage to encourage newsletter sign-ups.
+######Visual and functional design update of sales lead conversion pages and forms including contact, booking pages, and a pop-up modal on the homepage to encourage newsletter sign-ups.
 
 **[Brooks Running Apparel & Footwear Catalogs](http://emilythompsondesign.com/brooks-apparel-and-footwear-catalogs)**
 ![Brooks Apparel & Footwear Catalogs](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2acb010035137.560de69fbe46f.jpg)  
-Art direction for lifestyle and product photo shoots, layout design and production, and project management.
+######Art direction for lifestyle and product photo shoots, layout design and production, and project management.
 
 
 
