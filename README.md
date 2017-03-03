@@ -5,9 +5,9 @@
 
 ####**FULL-TIME EMPLOYMENT**  
 ######**Brooks Running :: Production Designer** :: 2010-2012 :: Bothell, WA
-* Apparel and footwear catalog concepting, design and production  
-* In-store promotional, events, and other marketing collateral design  
-* Digital asset management and request fulfillment   
+###### * Apparel and footwear catalog concepting, design and production  
+###### * In-store promotional, events, and other marketing collateral design  
+###### * Digital asset management and request fulfillment   
 
 ######**Brenthaven :: Graphic Designer** :: 2013-2014 :: Seattle, WA
 * Design, concepting and production of in-store collateral, packaging, catalogs and promotional event materials. 
