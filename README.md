@@ -7,11 +7,11 @@
 #####SKILLS
 
 ####EDUCATION  
-DEGREE:  
+**Degree:**  
 Bachelor of Fine Arts :: Graphic Design
 _Montana State University_
 
-CONTINUING EDUCATION:  
+**Continuing Education:**  
 Making the Move from Print to Web
 _School of Visual Concepts_
 
