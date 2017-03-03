@@ -4,15 +4,15 @@
 #####EXPERIENCE
 
 
-#####SKILLS
+####SKILLS
 
-####EDUCATION  
-**Degree:**  
-Bachelor of Fine Arts :: Graphic Design
+###**EDUCATION**  
+**DEGREE:**  
+**2010** | Bachelor of Fine Arts :: Graphic Design
 _Montana State University_
 
-**Continuing Education:**  
-Making the Move from Print to Web
+**CONTINUING EDUCATION:**  
+**2012** | Making the Move from Print to Web
 _School of Visual Concepts_  
 Packaging Design
 _School of Visual Concepts_  
