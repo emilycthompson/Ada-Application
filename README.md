@@ -12,11 +12,11 @@
 _Montana State University_
 
 **CONTINUING EDUCATION:**  
-**2012** | Making the Move from Print to Web
+**2012** | Making the Move from Print to Web  
 _School of Visual Concepts_  
-Packaging Design
+**2013** | Packaging Design  
 _School of Visual Concepts_  
-User Experience Design I AND II
+**2014** | User Experience Design I AND II  
 _School of Visual Concepts_
 
 
