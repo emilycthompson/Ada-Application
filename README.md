@@ -14,6 +14,11 @@
 
 
 **FREELANCE**  
+| CLIENT        | ROLE          | PROJECTS  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 **Art Direction** :: Eddie Bauer, Cascade Designs, Evergreen Mountain Bike Alliance, Northwest Riders, Gear Aid, Frequency: The Snowboard Journal, The Ski Journal  
 
 **Graphic Design & Production** :: Hammerquist Studios, Hornall Anderson, WongDoody  
