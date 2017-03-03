@@ -3,7 +3,7 @@
 
 #####EXPERIENCE
 **FULL-TIME EMPLOYMENT**  
-**2010-2012** | Brooks Running :: Production Designer | _Bothell, WA_
+**Brooks Running** :: 2010-2010 | Production Designer | _Bothell, WA_  
 * Apparel and footwear catalog concepting, design and production  
 * In-store promotional, events, and other marketing collateral design  
 * Digital asset management and request fulfillment
