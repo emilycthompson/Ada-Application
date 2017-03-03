@@ -46,9 +46,8 @@ _School of Visual Concepts—Seattle, WA_
 ######BRENTHAVEN PHOTOSHOOT ART DIRECTION :: Concept development, wardrobe selection, casting and location scouting for multiple Brenthaven lifestyle and propped product photo shoots. [See More](http://emilythompsondesign.com/brenthaven-photography-art-direction)  
 ![Brenthaven Photoshoot Art Direction](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c11f1f21138641.562fc2101cc87.jpg)  
 
-![Canadian Mountain Holidays Web Forms](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e265b221138111.562fc1ebf2905.jpg)  
 ######CANADIAN MOUNTAIN HOLIDAYS WEB FORMS :: Visual and functional design update of sales lead conversion pages and forms including contact, booking pages, and a pop-up modal on the homepage to encourage newsletter sign-ups. [See More](http://emilythompsondesign.com/canadian-mountain-holidays-web-forms)  
+![Canadian Mountain Holidays Web Forms](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e265b221138111.562fc1ebf2905.jpg)   
 
-
+######BROOKS APPAREL & FOOTWEAR CATALOGS :: Art direction for lifestyle and product photo shoots, layout design and production, and project management. [See More](http://emilythompsondesign.com/brooks-apparel-and-footwear-catalogs)  
 ![Brooks Apparel & Footwear Catalogs](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2acb010035137.560de69fbe46f.jpg)  
-######BROOKS APPAREL & FOOTWEAR CATALOGS :: Art direction for lifestyle and product photo shoots, layout design and production, and project management. [See More](http://emilythompsondesign.com/brooks-apparel-and-footwear-catalogs)
