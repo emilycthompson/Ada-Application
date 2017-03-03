@@ -1,7 +1,7 @@
 # **EMILY C THOMPSON**
 ###**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
 
-#####EXPERIENCE
+#####**EXPERIENCE**
 **FULL-TIME EMPLOYMENT**  
 **Brooks Running :: Production Designer** :: 2010-2012 :: Bothell, WA
 * Apparel and footwear catalog concepting, design and production  
@@ -20,7 +20,7 @@
 
 **Clients** :: Mountain Safety Research, Platypus, Therm-A-Rest, Canadian Mountain Holidays, K2 Skis, T-Mobile, Qwuaker, Ruffles, Seattle's Best Coffee
 
-###**PROFICIENCES**
+#####**PROFICIENCES**
 
 
 ###**EDUCATION**  
