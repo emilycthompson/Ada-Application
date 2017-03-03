@@ -1,16 +1,15 @@
 #**EMILY C THOMPSON**  
-###**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
-===========================================================
+####**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
+-----------------------------------------------------------
 
------------------------     ----------------------------------
 WEBSITE                     EMILYTHOMPSONDESIGN.COM
 PHONE                       307.690.3461
 EMAIL                       LETSDOTHIS@EMILYTHOMPSONDESIGN.COM
------------------------     ----------------------------------
 
 I am a graphic designer and art director living and working in Bellingham, WA. I specialize in branding, catalogs, look books and packaging for the outdoors oriented brands. I focus on producing content that embraces the full complexity and uniqueness of each project. 
 
 **EXPERIENCE**
+--------------
 
 ####**FULL-TIME EMPLOYMENT**  
 **Brooks Running :: Production Designer :: 2010-2012 :: Bothell, WA**
@@ -31,14 +30,15 @@ I am a graphic designer and art director living and working in Bellingham, WA. I
 **Clients** :: Mountain Safety Research, Platypus, Therm-A-Rest, Canadian Mountain Holidays, K2 Skis, T-Mobile, Qwuaker, Ruffles, Seattle's Best Coffee
 
 **PROFICIENCES**
+----------------
 
-
-**EDUCATION**  
-####**DEGREE:**  
+**EDUCATION** 
+-------------
+**DEGREE:**  
 **2010** | Bachelor of Fine Arts :: Graphic Design
 _Montana State University—Bozeman, MT_
 
-####**CONTINUING EDUCATION:**  
+**CONTINUING EDUCATION:**  
 **2012** | Making the Move from Print to Web
 _School of Visual Concepts—Seattle, WA_  
 **2013** | Packaging Design
