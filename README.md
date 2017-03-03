@@ -3,7 +3,8 @@
 
 #####EXPERIENCE
 **FULL-TIME EMPLOYMENT**  
-**Brooks Running :: Production Designer** 2010-2012 | Bothell, WA   
+**Brooks Running :: Production Designer**  
+2010-2012 | Bothell, WA   
 * Apparel and footwear catalog concepting, design and production  
 * In-store promotional, events, and other marketing collateral design  
 * Digital asset management and request fulfillment
