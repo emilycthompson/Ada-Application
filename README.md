@@ -3,16 +3,14 @@
 
 #####EXPERIENCE
 **FULL-TIME EMPLOYMENT**  
-**2010-2012** | Brooks Running :: Production Designer  
-_Bothell, WA_
+**2010-2012** | Brooks Running :: Production Designer | _Bothell, WA_
 * Apparel and footwear catalog concepting, design and production  
 * In-store promotional, events, and other marketing collateral design  
 * Digital asset management and request fulfillment
 
 
 **FREELANCE CLIENTS**  
-**2012** | Making the Move from Print to Web
-_School of Visual Concepts—Seattle, WA_  
+**2012** | Making the Move from Print to Web | _School of Visual Concepts—Seattle, WA_  
 **2013** | Packaging Design
 _School of Visual Concepts—Seattle, WA_  
 **2014** | User Experience Design I and II
