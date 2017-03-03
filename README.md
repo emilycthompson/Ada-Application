@@ -9,13 +9,13 @@
 * Digital asset management and request fulfillment   
 
 **Brenthaven :: Graphic Designer** :: 2013-2014 :: Seattle, WA
-* Print design, concepting and production of in-store collateral, packaging, catalogs and promotional event materials. 
+* Design, concepting and production of in-store collateral, packaging, catalogs and promotional event materials. 
 * Web design and concepting of Brenthaven.com, and digital marketing assets including emails and social media posts.
 
 
 **FREELANCE**  
 **Art Direction** :: Eddie Bauer, Cascade Designs, Evergreen Mountain Bike Alliance, Northwest Riders, Gear Aid, Frequency: The Snowboard Journal, The Ski Journal  
-**Graphic Design & Production** :: Hammerquist Studios, Hornall Anderson, WongDoody
+**Graphic Design & Production** :: Hammerquist Studios, Hornall Anderson, WongDoody  
 **Clients** :: Mountain Safety Research, Platypus, Therm-A-Rest, Canadian Mountain Holidays, K2 Skis, T-Mobile, Qwuaker, Ruffles, Seattle's Best Coffee
 
 ###**PROFICIENCES**
