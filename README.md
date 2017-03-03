@@ -1,6 +1,8 @@
-# **EMILY C THOMPSON**  ###**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
+# **EMILY C THOMPSON**  
+###**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
 
 #####**EXPERIENCE**
+
 **FULL-TIME EMPLOYMENT**  
 **Brooks Running :: Production Designer** :: 2010-2012 :: Bothell, WA
 * Apparel and footwear catalog concepting, design and production  
@@ -22,7 +24,7 @@
 #####**PROFICIENCES**
 
 
-###**EDUCATION**  
+#####**EDUCATION**  
 **DEGREE:**  
 **2010** | Bachelor of Fine Arts :: Graphic Design
 _Montana State University—Bozeman, MT_
