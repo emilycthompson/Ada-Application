@@ -1,5 +1,6 @@
 #**EMILY C THOMPSON**   
 ######EMILYTHOMPSONDESIGN.COM :: 307.690.3461 :: LETSDOTHIS@EMILYTHOMPSONDESIGN.COM
+
 ####Graphic Designer | Art Director | Aspiring Developer  
 I am a graphic designer and art director living and working in Bellingham, WA. I specialize in branding, catalogs, look books and packaging for the outdoors oriented brands. I focus on producing content that embraces the full complexity and uniqueness of each project. 
 
