@@ -1,5 +1,5 @@
-# EMILY C THOMPSON  
-####**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
+# **EMILY C THOMPSON**
+###**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
 
 #####EXPERIENCE
 **FULL-TIME EMPLOYMENT**  
@@ -14,11 +14,6 @@
 
 
 **FREELANCE**  
-| CLIENT        | ROLE          | DESCRIPTION  |
-| --- | --- | ---
-| **Cascade Designs** | WORKBOOK | Art direction, graphic design and project management of annual workbook showcasing Therm-A-Rest, Mountain Safety Research, Platypus, SealLine and PackTowl products.  |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 **Art Direction** :: Eddie Bauer, Cascade Designs, Evergreen Mountain Bike Alliance, Northwest Riders, Gear Aid, Frequency: The Snowboard Journal, The Ski Journal  
 
 **Graphic Design & Production** :: Hammerquist Studios, Hornall Anderson, WongDoody  
