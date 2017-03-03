@@ -7,6 +7,7 @@
 * Apparel and footwear catalog concepting, design and production  
 * In-store promotional, events, and other marketing collateral design  
 * Digital asset management and request fulfillment  
+
 2010-2012 | Bothell, WA  
 
 
