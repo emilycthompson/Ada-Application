@@ -1,17 +1,17 @@
 # EMILY C THOMPSON  
 ####**GRAPHIC DESIGNER | ART DIRECTOR | ASPIRING DEVELOPER**
 
-######EXPERIENCE
+#####EXPERIENCE
 
 
-######SKILLS
+#####SKILLS
 
-#####EDUCATION  
-DEGREE:
+####EDUCATION  
+DEGREE:  
 Bachelor of Fine Arts :: Graphic Design
 _Montana State University_
 
-CONTINUING EDUCATION:
+CONTINUING EDUCATION:  
 Making the Move from Print to Web
 _School of Visual Concepts_
 
