@@ -2,7 +2,7 @@
 ######EMILYTHOMPSONDESIGN.COM :: 307.690.3461 :: LETSDOTHIS@EMILYTHOMPSONDESIGN.COM
 
 ####Graphic Designer | Art Director | Aspiring Developer  
-I am a graphic designer and art director living and working in Bellingham, WA. I specialize in branding, catalogs, look books and packaging for the outdoors oriented brands. I focus on producing content that embraces the full complexity and uniqueness of each project. 
+I am a graphic designer and art director living and working in Bellingham, WA. I specialize in branding, catalogs, look books and packaging for the outdoors oriented brands. Since 2012, I have worked as a contractor, freelance or independently with clients varying from in-house creative departments to ad agencies, from mom-and-pop businesses to multi-national coprorations. I have carved a niche for myself by being an effective communicator, extremely organized and detail-oriented, creative and reliable.   
 
 **EDUCATION** 
 -------------
