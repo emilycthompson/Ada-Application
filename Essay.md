@@ -1,9 +1,6 @@
 #Essay Questions
 **1.A Why are you interested in programming?**  
->“Form follows function-that has been misunderstood.  
-Form and function should be one, joined in a spiritual union.”  
-_Frank Lloyd Wright_  
-
+Frank Lloyd Wright said, _“Form follows function-that has been misunderstood. Form and function should be one, joined in a spiritual union.”_  
 As a graphic designer, I’m constantly balancing, experimenting with and pushing the boundaries of the relationship between form and function. Each project I take on must not only communicate a message, but it must also appeal to its audience, draw them in, excite them, challenge them, inspire them, or inform them. As modern humans, we use design to curate the objects we choose to interact with, and are constantly evolving our filter through which we rapidly determine the value of an object. Now, more than ever, form and function are essential partners and understanding their interaction is invaluable.  
 I strive to comprehensively understand and utilize both form and function. Hybrid designer/developers who can set type as proficiently as they can write code are so rare, they’re labeled unicorns. I am well-versed in communicating aesthetically, but lack the skills and experience to create functioning apps, programs or sites. A thorough understanding of both form and function as it relates to programming is a powerful skill set and will allow me to create highly functional and effective designs. I want to be a unicorn.  
 
