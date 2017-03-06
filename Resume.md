@@ -17,9 +17,17 @@ _School of Visual Concepts—Seattle, WA_
 _School of Visual Concepts—Seattle, WA_  
 **2014** | User Experience Design I and II
 _School of Visual Concepts—Seattle, WA_
+**2016** | HTML/CSS & Javascript
+_Codecademy.com_
 
 **EXPERIENCE**
 --------------
+####**FREELANCE**  
+**Art Direction** :: Eddie Bauer, Cascade Designs, Evergreen Mountain Bike Alliance, Northwest Riders, Gear Aid, Frequency: The Snowboard Journal, The Ski Journal  
+
+**Graphic Design & Production** :: Hammerquist Studios, Hornall Anderson, WongDoody  
+
+**Clients** :: Mountain Safety Research, Platypus, Therm-A-Rest, Canadian Mountain Holidays, K2 Skis, T-Mobile, Qwuaker, Ruffles, Seattle's Best Coffee
 
 ####**FULL-TIME EMPLOYMENT**  
 **Brooks Running :: Production Designer :: 2010-2012 :: Bothell, WA**
@@ -30,14 +38,6 @@ _School of Visual Concepts—Seattle, WA_
 **Brenthaven :: Graphic Designer :: 2013-2014 :: Seattle, WA**
 * Design, concepting and production of in-store collateral, packaging, catalogs and promotional event materials. 
 * Web design and concepting of Brenthaven.com, and digital marketing assets including emails and social media.
-
-
-####**FREELANCE**  
-**Art Direction** :: Eddie Bauer, Cascade Designs, Evergreen Mountain Bike Alliance, Northwest Riders, Gear Aid, Frequency: The Snowboard Journal, The Ski Journal  
-
-**Graphic Design & Production** :: Hammerquist Studios, Hornall Anderson, WongDoody  
-
-**Clients** :: Mountain Safety Research, Platypus, Therm-A-Rest, Canadian Mountain Holidays, K2 Skis, T-Mobile, Qwuaker, Ruffles, Seattle's Best Coffee
 
 **WORK SAMPLES**
 ----------------
