@@ -16,7 +16,7 @@ _School of Visual Concepts—Seattle, WA_
 **2013** | Packaging Design
 _School of Visual Concepts—Seattle, WA_  
 **2014** | User Experience Design I and II
-_School of Visual Concepts—Seattle, WA_
+_School of Visual Concepts—Seattle, WA_  
 **2016** | HTML/CSS & Javascript
 _Codecademy.com_
 
