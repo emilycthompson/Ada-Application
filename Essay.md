@@ -1,4 +1,4 @@
-#Essay Questions
+#EMILY C THOMPSON :: Essays
 **1.A Why are you interested in programming?**  
 Frank Lloyd Wright said, _“Form follows function-that has been misunderstood. Form and function should be one, joined in a spiritual union.”_  
 As a graphic designer, I’m constantly balancing, experimenting with and pushing the boundaries of the relationship between form and function. Each project I take on must not only communicate a message, but it must also appeal to its audience, draw them in, excite them, challenge them, inspire them, or inform them. As modern humans, we use design to curate the objects we choose to interact with, and are constantly evolving our filter through which we rapidly determine the value of an object. Now, more than ever, form and function are essential partners and understanding their interaction is invaluable.  
